@@ -2,7 +2,10 @@
 
 int main() {
     printf("Hello, World!\n");
-	printf("Hello, Linux!\n");
-	printf("My name is...\n");
-	return 0;
+    printf("Hello, Linux!\n");
+    
+    char var[] = "World";
+    printf("Hello %s\n", var);
+    
+    return 0;
 }
