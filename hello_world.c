@@ -2,5 +2,6 @@
 
 int main() {
     printf("Hello, World!\n");
-    return 0;
+	printf("Hello, Linux!\n");
+	return 0;
 }
